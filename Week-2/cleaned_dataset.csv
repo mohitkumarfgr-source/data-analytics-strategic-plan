@@ -1,0 +1,4 @@
+record_id,customer_name,city,category,date,amount
+1,Mohit,Delhi,Sales,2026-01-02,1200.0
+2,Aman,Delhi,Sales,2026-01-03,1500.0
+5,Raj,Mumbai,Sales,2026-01-05,999999.0

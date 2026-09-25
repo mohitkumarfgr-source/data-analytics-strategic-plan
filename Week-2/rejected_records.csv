@@ -1,0 +1,4 @@
+record_id,customer_name,city,category,date,amount,rejection_reason
+3,Riya,Mumbai,Marketing,2026-01-04,,"Missing required value, invalid date/amount, or negative amount"
+4,Neha,Mumbai,Marketing,,2200.0,"Missing required value, invalid date/amount, or negative amount"
+6,,Kanpur,Operations,2026-01-06,-50.0,"Missing required value, invalid date/amount, or negative amount"
